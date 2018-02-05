@@ -1,3 +1,4 @@
+
 # Hall of Fame
 Please add your name to this list
 
@@ -6,4 +7,4 @@ Please add your name to this list
 3. Benjamin
 4. Nick
 5. Matthew
-
+6. Lexi
